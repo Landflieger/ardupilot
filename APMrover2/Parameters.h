@@ -38,6 +38,8 @@ public:
         k_param_pivot_turn_angle,
         k_param_rc_13_old,  // unused
         k_param_rc_14_old,  // unused
+        k_param_osd,
+
 
         // IO pins
         k_param_rssi_pin = 20,  // unused, replaced by rssi_ library parameters

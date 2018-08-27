@@ -170,4 +170,7 @@
 #else
  #define DEVO_TELEM_ENABLED ENABLED
 #endif
+#ifndef OSD_ENABLED
+ #define OSD_ENABLED DISABLED
+#endif
 #endif
