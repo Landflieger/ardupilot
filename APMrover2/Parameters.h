@@ -38,7 +38,6 @@ public:
         k_param_pivot_turn_angle,
         k_param_rc_13_old,  // unused
         k_param_rc_14_old,  // unused
-        k_param_osd,
 
 
         // IO pins
@@ -204,6 +203,7 @@ public:
         k_param_barometer,
         k_param_notify,
         k_param_button,
+        k_param_osd,
 
         k_param_DataFlash = 253,  // Logging Group
 
