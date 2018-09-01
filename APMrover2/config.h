@@ -174,3 +174,8 @@
  #define OSD_ENABLED DISABLED
 #endif
 #endif
+
+#ifndef OSD_ENABLED
+ #define OSD_ENABLED DISABLED
+#endif
+
